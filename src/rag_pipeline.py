@@ -23,8 +23,9 @@ import numpy as np
 import pandas as pd
 
 # Core ML/AI libraries
-import faiss
-from sentence_transformers import SentenceTransformer
+from sklearn.feature_extraction.text import TfidfVectorizer
+from sklearn.neighbors import NearestNeighbors
+from scipy import sparse
 import torch
 
 # Transformers for text generation
@@ -37,12 +38,10 @@ except ImportError:
 
 # Local imports
 try:
-    from .vector_store_setup import VectorStoreManager, load_faiss_index, load_chunks, load_metadata
     from .text_chunking import ComplaintTextChunker
 except ImportError:
     # Handle direct execution
     sys.path.append(os.path.dirname(__file__))
-    from vector_store_setup import VectorStoreManager, load_faiss_index, load_chunks, load_metadata
     from text_chunking import ComplaintTextChunker
 
 # Configure logging
