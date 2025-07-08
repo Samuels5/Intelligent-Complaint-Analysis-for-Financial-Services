@@ -1,0 +1,90 @@
+[
+  {
+    "question": "What are the main issues people are complaining about with credit cards?",
+    "category": "Product Analysis",
+    "answer": "Based on 5 relevant complaint(s):\n\nMain products involved: Credit card (4 complaints), Money transfers (1 complaints)\n\nPrimary issues: Incorrect information on your report (1 complaints), Getting a credit card (1 complaints), Unauthorized transactions or other transaction problem (1 complaints)\n\nKey complaint details:\n1. i have a citi rewards cards. the credit balance issued to me was {$8400.00}. i recently moved, which meant my bills would be lowered, which meant i'd ...\n2. on xx/xx/year> i got an alert from that two capital one cards were opened under my name. i did let them know previously there was a credit report not ...\n3. ed so these people are stealing peoples accounts and sending the money to stolen and stolen account. its not fair. im responsible for it.\n",
+    "sources_count": 5,
+    "quality_score": 4,
+    "sources_preview": [
+      "Credit card: Incorrect information on your report",
+      "Credit card: Getting a credit card"
+    ]
+  },
+  {
+    "question": "Why are customers unhappy with BNPL services?",
+    "category": "Product Analysis",
+    "answer": "Based on 5 relevant complaint(s):\n\nMain products involved: Credit card (4 complaints), Savings account (1 complaints)\n\nPrimary issues: Problem with a purchase shown on your statement (2 complaints), Closing an account (1 complaints), Problem when making payments (1 complaints)\n\nKey complaint details:\n1. nt agencies against this fraudulent activity. of the executives is aware of the issue at this point. nothing has been done about it. this is unaccepta...\n2. rds being disputed and tied to undelivered services and mismanagement of funds. totaling in {$52000. 00} as stated in the contract. these funds were p...\n3. nce remains entirely with , who was directly responsible for fulfilling the services promised to me. therefore, their failure to make the guaranteed w...\n",
+    "sources_count": 5,
+    "quality_score": 4,
+    "sources_preview": [
+      "Savings account: Closing an account",
+      "Credit card: Problem with a purchase shown on your statement"
+    ]
+  },
+  {
+    "question": "What are the most common problems with personal loans?",
+    "category": "Product Analysis",
+    "answer": "Based on 5 relevant complaint(s):\n\nMain products involved: Personal loan (2 complaints), Credit card (2 complaints), Money transfers (1 complaints)\n\nPrimary issues: Problem with a purchase shown on your statement (2 complaints), Problem with the payoff process at the end of the loan (1 complaints), Was approved for a loan, but didn't receive the money (1 complaints)\n\nKey complaint details:\n1. under idaho state law28-46-413. payday loan business practices. ( 1 ) no licensee or person related to a licensee by common control may have outstandi...\n2. i received an email twice from on xx/xx/year> and the first email said , thank you for placing a personal loan request at credible! unfortunately, our...\n3. ocated somewhere in georgia ( out of state ) and the contact and telephone information are not mine. in addition, it actually says on these documents,...\n",
+    "sources_count": 5,
+    "quality_score": 4,
+    "sources_preview": [
+      "Personal loan: Problem with the payoff process at the end of the loan",
+      "Personal loan: Was approved for a loan, but didn't receive the money"
+    ]
+  },
+  {
+    "question": "Are there any patterns in savings account complaints?",
+    "category": "Pattern Recognition",
+    "answer": "Based on 5 relevant complaint(s):\n\nMain products involved: Money transfers (3 complaints), Savings account (2 complaints)\n\nPrimary issues: Fraud or scam (2 complaints), Closing an account (1 complaints), Unauthorized transactions or other transaction problem (1 complaints)\n\nKey complaint details:\n1. d my savings account that i was transferring on wire transfer from wells fargo {$200000.00} {$99000. 00} and some change in checking and savings i fil...\n2. this all happened in and was taken from my wells fargo account i opened the account all on the same day which was in no it was in savings checking in ...\n3. emailed me that i was pre-approved for a if i apply within 14 days. they also advertise that if you have a smartly credit card they waive account fees...\n",
+    "sources_count": 5,
+    "quality_score": 4,
+    "sources_preview": [
+      "Money transfers: Fraud or scam",
+      "Money transfers: Fraud or scam"
+    ]
+  },
+  {
+    "question": "What issues do customers face with money transfers?",
+    "category": "Product Analysis",
+    "answer": "Based on 5 relevant complaint(s):\n\nMain products involved: Savings account (3 complaints), Money transfers (1 complaints), Credit card (1 complaints)\n\nPrimary issues: Managing an account (2 complaints), Money was not available when promised (1 complaints), Problem when making payments (1 complaints)\n\nKey complaint details:\n1. and was closed 3 days later on xx/xx/year>. i visited wells fargo and spoke to a rep on xx/xx/year>. they told me the case was still pending, i receiv...\n2. refused to let me withdraw my cash so i transferred to to be able to withdraw days ago, they said it take hours for money to settle. i did everything ...\n3. e helpful. he finally canceled the first card sent out a second card which i still haven't received. so i called them again this time operator so call...\n",
+    "sources_count": 5,
+    "quality_score": 4,
+    "sources_preview": [
+      "Savings account: Managing an account",
+      "Money transfers: Money was not available when promised"
+    ]
+  },
+  {
+    "question": "Which financial product has the most serious complaints?",
+    "category": "Comparative Analysis",
+    "answer": "Based on 5 relevant complaint(s):\n\nMain products involved: Credit card (3 complaints), Money transfers (2 complaints)\n\nPrimary issues: Problem with a purchase shown on your statement (2 complaints), Fraud or scam (1 complaints), Fees or interest (1 complaints)\n\nKey complaint details:\n1. d my savings account that i was transferring on wire transfer from wells fargo {$200000.00} {$99000. 00} and some change in checking and savings i fil...\n2. were never rendered in full, and operational updates and income deposits ceased without explanation. the inability to recover these funds would cause ...\n3.  purchase on that promotional offer. my account was also set up on auto pay through out this period. i was not informed or ever communicated in writin...\n",
+    "sources_count": 5,
+    "quality_score": 4,
+    "sources_preview": [
+      "Money transfers: Fraud or scam",
+      "Credit card: Problem with a purchase shown on your statement"
+    ]
+  },
+  {
+    "question": "What should the product team prioritize for credit card improvements?",
+    "category": "Strategic Insights",
+    "answer": "Based on 5 relevant complaint(s):\n\nMain products involved: Credit card (5 complaints)\n\nPrimary issues: Other features, terms, or problems (1 complaints), Problem with a purchase shown on your statement (1 complaints), Advertising and marketing, including promotional offers (1 complaints)\n\nKey complaint details:\n1. synchrony bank holds the store credit card in which i am making a complaint. without notice to the customer my credit availability was lowered on a ca...\n2. / between march 4, 2025 thrxx/xx/ to citi to resolve the unauthorized charges with citi to no avail. in return citi has closed the original credit car...\n3. applied and received credit it card on xx/xx/year> for 0 % card for 18 months i paid the fees when i got my statement there was % charged they will no...\n",
+    "sources_count": 5,
+    "quality_score": 4,
+    "sources_preview": [
+      "Credit card: Other features, terms, or problems",
+      "Credit card: Problem with a purchase shown on your statement"
+    ]
+  },
+  {
+    "question": "Are there any fraud-related patterns in the complaints?",
+    "category": "Risk Analysis",
+    "answer": "Based on 5 relevant complaint(s):\n\nMain products involved: Credit card (4 complaints), Money transfers (1 complaints)\n\nPrimary issues: Problem with a purchase shown on your statement (2 complaints), Fraud or scam (1 complaints), Getting a credit card (1 complaints)\n\nKey complaint details:\n1. d my savings account that i was transferring on wire transfer from wells fargo {$200000.00} {$99000. 00} and some change in checking and savings i fil...\n2.  writing to formally submit a complaint against synchrony bank carecredit fraud investigation dept.. on xx/xx/, i faxed the requested documentation to...\n3.  not my information. representative told direct me to call capital one fraud department which i did. representative advice me to call , and and report...\n",
+    "sources_count": 5,
+    "quality_score": 4,
+    "sources_preview": [
+      "Money transfers: Fraud or scam",
+      "Credit card: Problem with a purchase shown on your statement"
+    ]
+  }
+]
