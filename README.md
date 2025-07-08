@@ -63,10 +63,3 @@ This project implements a Retrieval-Augmented Generation (RAG) powered chatbot f
 - An LLM generates a concise, evidence-backed answer, citing sources.
 - The app displays both the answer and the supporting complaint excerpts.
 
-## Authors
-
-- CrediTrust Financial AI Team
-
-## License
-
-MIT License
