@@ -54,7 +54,7 @@ A key focus of this project is ensuring compatibility with standard enterprise e
 1.  **Clone the repository:**
 
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/Samuels5/Intelligent-Complaint-Analysis-for-Financial-Services.git
     cd Intelligent-Complaint-Analysis-for-Financial-Services
     ```
 
